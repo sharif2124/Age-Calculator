@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="Age Calculator"
         android:textColor="#1C1818"
-        android:textSize="20sp"
+        android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
